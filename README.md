@@ -29,7 +29,7 @@ El script está diseñado para interactuar con dispositivos de almacenamiento a 
 
 #### 1. Clona este repositorio:
 ```bash
-git clone <repositorio>
+git clone https://github.com/JarHL/make_zoning_broadcom.git
 ```
 
 #### 2. Configura los datos de conexión:
