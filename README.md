@@ -37,7 +37,7 @@ El usuario debe introducir los detalles de conexión (host, puerto, usuario, con
 
 #### 3. Ejecuta el script:
 ```bash
-python zonificacion.py
+python makeZoningV2.py
 ```
 
 #### 4. Interfaz de usuario:
